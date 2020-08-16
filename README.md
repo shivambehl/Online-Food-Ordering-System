@@ -1,5 +1,6 @@
 ## FOODIE - Online Food Ordering System
 
+
 <h1 align="center">
 	<img
 		width="500"
@@ -9,11 +10,11 @@
 
 Software Engineering Project using Django Web Development Framework. | Made in T.I.E.T.
 
-__Order Something !__
+##### __Order Something !__
 
 ![Screenshot](images/food.png)
 
-To run the website on you local system:
+##### To run the website on you local system:
 
 Install Requirements:
 ```
