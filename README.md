@@ -4,7 +4,7 @@
 	<img
 		width="300"
 		alt="The Lounge"
-		src="https://github.com/shivambehl/Online-Food-Ordering-System/images/intro.png">
+		src="./images/intro.png">
 </h1>
 
 Software Engineering Project using Django Web Development Framework. | Made in T.I.E.T.
