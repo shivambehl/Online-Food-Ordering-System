@@ -2,7 +2,7 @@
 
 <h1 align="center">
 	<img
-		width="300"
+		width="500"
 		alt="The Lounge"
 		src="./images/intro.png">
 </h1>
